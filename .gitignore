@@ -1,0 +1,10 @@
+.DS_Store
+/.build
+/.swiftpm/
+/Package.resolved
+/Packages
+xcuserdata/
+DerivedData/
+.frg/
+.netrc
+Examples/BenchmarkApp/*.xcodeproj/
