@@ -40,7 +40,7 @@ The primary surface is an actor-based record index service with batch upsert/del
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/gregyoung14/RecallKit.git", from: "0.1.0")
+    .package(url: "https://github.com/gregyoung14/RecallKit.git", from: "0.1.2")
 ]
 ```
 
